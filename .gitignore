@@ -25,4 +25,4 @@ go.work
 /**/.idea/*
 
 # Tokens
-/config/bot/bot.go
+config/bot/bot.go
